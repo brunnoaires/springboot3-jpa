@@ -1,4 +1,4 @@
-package config;
+package com.educandoweb.course.config;
 
 import java.util.Arrays;
 
